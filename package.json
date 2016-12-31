@@ -2,7 +2,7 @@
   "name": "react-deep-force-update",
   "version": "2.0.1",
   "description": "Force-updates React component tree recursively",
-  "main": "src/index.js",
+  "main": "lib/index.js",
   "scripts": {
     "clean": "rimraf lib",
     "build": "babel src --out-dir lib",
